@@ -1,5 +1,6 @@
 """
 Opinion dynamics simulation.
+
 """
 
 from network_data import get_graph, get_data
